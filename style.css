@@ -1,0 +1,108 @@
+body {
+    font-family: outfit;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+
+.logo {
+    position: absolute;
+    color: aliceblue;
+    font-size: 2rem;
+    font-weight: 500;
+    padding-top: 1rem;
+    padding-left: 2rem;
+    display: block;
+}
+
+.t1 {
+    position: absolute;
+    color: aliceblue;
+    font-size: 2rem;
+    font-weight: 500;
+    text-decoration: none;
+    padding-left: 66.3rem;
+    padding-top: 1rem;
+    z-index: 66;
+}
+
+.t2 {
+    position: absolute;
+    color: aliceblue;
+    font-size: 2rem;
+    font-weight: 500;
+    text-decoration: none;
+    padding-left: 74rem;
+    padding-top: 1rem;
+    z-index: 33;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover {
+    text-decoration: underline;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+}
+
+.para1 {
+    color: aliceblue;
+    position: absolute;
+    font-family: readex pro;
+    font-weight: 300;
+    font-size: 1.7rem;
+    display: block;
+    width: 25rem;
+    word-wrap: break-word;
+    padding-top: 7rem;
+    padding-left: 2rem;
+    z-index: 33;
+}
+
+b {
+    font-weight: bolder;
+}
+
+.green{
+    color: #4EF810;
+}
+
+.red{
+    color: #EB0D0D;
+}
+
+#w1{
+    font-weight: bolder;
+}
+
+#w2{
+    font-weight: bolder;
+}
+
+#w3{
+    font-weight: bolder;
+}
+
+.para2 {
+    color: aliceblue;
+    position: absolute;
+    font-family: readex pro;
+    font-weight: 300;
+    font-size: 3.5rem;
+    display: block;
+    width: 25rem;
+    word-wrap: break-word;
+    padding-top: 8rem;
+    padding-left: 59rem;
+}
+
+.image img{
+    width: 17rem;
+    position: absolute;
+    display: block;
+    padding-top: 7rem;
+    padding-left: 35rem;
+}
